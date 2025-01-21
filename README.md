@@ -3,7 +3,9 @@ This repository contains the R scripts for bulk RNAseq of lung biopsies from mic
 
 ## Manuscript Details
 Title: Inhaled Angiopoietin-like 4 Antisense Oligonucleotide Therapy for Lung Injury and Fibrosis
+
 DOI: Pending
+
 Link: Pending
 
 ## Contents of the Repository
